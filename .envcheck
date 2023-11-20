@@ -15,5 +15,5 @@ NEXT_PUBLIC_PAYMOB1="https://pakistan.paymob.com/api/auth/tokens"
 NEXT_PUBLIC_PAYMOB2="https://pakistan.paymob.com/api/ecommerce/orders"
 NEXT_PUBLIC_PAYMOB3="https://pakistan.paymob.com/api/acceptance/payment_keys"
 NEXT_PUBLIC_GET_NEWS="https://gemdev-sub.vercel.app/api/news"
-NEXT_PUBLIC_GET_IMAGE="dev8.sidat.digital"
+NEXT_PUBLIC_GET_IMAGE="https://gemdev-sub.vercel.app/"
 
