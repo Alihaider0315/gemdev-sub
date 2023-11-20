@@ -16,9 +16,9 @@ const nextConfig = {
 
     return config;
   },
-  images: {
-    domains: [process.env.NEXT_PUBLIC_GET_IMAGE],
-  },
+  // images: {
+  //   domains: [process.env.NEXT_PUBLIC_GET_IMAGE],
+  // },
 };
 
 module.exports = nextConfig;
